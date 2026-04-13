@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 .codex
 seminars/seminar_07/SuperGluePretrainedNetwork
+seminars/seminar_09/*.mp4
+seminars/seminar_12/cifar_data
